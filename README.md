@@ -29,3 +29,11 @@ If you find this work useful or use it in your work please cite the main paper:
 
 Kebbati, Y., Ait-Oufroukh, N., Vigneron, V., Ichalal, D., & Gruyer, D. (2021, September). Optimized self-adaptive PID speed control for autonomous vehicles. In 2021 26th International Conference on Automation and Computing (ICAC) (pp. 1-6). IEEE.
 
+@inproceedings{kebbati2021optimized,
+  title={Optimized self-adaptive PID speed control for autonomous vehicles},
+  author={Kebbati, Yassine and Ait-Oufroukh, Naima and Vigneron, Vincent and Ichalal, Dalil and Gruyer, Dominique},
+  booktitle={2021 26th International Conference on Automation and Computing (ICAC)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
+}
