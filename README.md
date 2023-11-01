@@ -12,6 +12,7 @@ This implementation requires MATLAB 2018b or a more recent version.
           1) Load the neural network initial weights found in (NN_weights.mat).
           2) Open the simulink file (Vehicle_model.slx) and run the simulation.
           3) Try and experiment with different learning rates, speed reference, slop, and wind disturbance.
+          The file MLP_PID.py is a Python code to build an MLP network and train it to learn the data of PID optimal gains based on linear regression (This can be used for the case of NN-PID as well). Note that to run the code you have to install all the required libraries : TensorFlow, Keras...etc
 
 # b) GA-PID:
 
