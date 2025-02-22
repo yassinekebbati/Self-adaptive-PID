@@ -27,9 +27,10 @@ This implementation requires MATLAB 2018b or a more recent version.
    3. The model compares the performance of NN-PID against GA-PID
 
 ## If you find this work useful or use it in your work please cite the main paper:
-
+#### APA:
 Kebbati, Y., Ait-Oufroukh, N., Vigneron, V., Ichalal, D., & Gruyer, D. (2021, September). Optimized self-adaptive PID speed control for autonomous vehicles. In 2021 26th International Conference on Automation and Computing (ICAC) (pp. 1-6). IEEE.
 
+#### BibTeX:
 @inproceedings{kebbati2021optimized,
   title={Optimized self-adaptive PID speed control for autonomous vehicles},
   author={Kebbati, Yassine and Ait-Oufroukh, Naima and Vigneron, Vincent and Ichalal, Dalil and Gruyer, Dominique},
